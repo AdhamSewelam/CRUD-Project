@@ -1,0 +1,21 @@
+.main-font
+{
+    font-family: Arial;
+}
+
+#starting .container, .data .container
+{
+    border-bottom: 1px solid rgb(153, 153, 153);
+}
+#starting h3, footer p
+{
+    color: #AAA;
+}
+.frame-inner
+{
+    background-color: #EEE;
+}
+.frame-inner input 
+{
+    border: 1px solid rgb(221, 221, 221);
+}
